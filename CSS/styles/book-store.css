@@ -1,5 +1,5 @@
 section {
-	border: 2px solid black;
+	border: 2px solid LightSkyBlue;
 	padding: 5px;
 	margin-botton: 5px;
 }
@@ -11,11 +11,12 @@ h1 {
 
 p {
 	font-family: Garamond;
+	color: DarkSlateGray;
 	
 }
 
 .onSale {
-	background-color: yellow;
+	background-color: rgba(71, 255, 50, .33);
 }
 
 #monthlyBestSeller {
