@@ -1,0 +1,37 @@
+#wrapper {
+    width:600px;
+    margin:auto; /* Centers the div on the page */
+    border:10px solid tan;
+    padding:25px;
+	
+}
+
+body {
+	background-image: url('https://practice-pixels.s3.amazonaws.com/texture-paper.jpg');
+	
+}
+
+h1 {
+	color: rgb(23,25,110);
+	font-family: Helvetica;
+	text-shadow: 1px 1px 2px black; 
+}
+
+h2 {
+	color: #33369a;
+	font-family: Helvetica;
+}
+
+p {
+	line-height: 1.5;
+	font-family: Georgia;
+}
+
+ul {
+	font-family: Georgia;
+	list-style: circle inside;
+}
+
+.primary {
+	font-weight: bold;
+}
